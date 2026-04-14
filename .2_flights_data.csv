@@ -1,5 +1,5 @@
 id,source,destination,seats,booked
-FL001,Chennai,Bangalore,50,MANI
+FL001,Chennai,Bangalore,50,
 FL002,Delhi,Mumbai,60,
 FL003,Hyderabad,Kolkata,45,
 FL004,Bangalore,Goa,30,
